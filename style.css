@@ -1,0 +1,27 @@
+body{
+    font-family: 'Inter', sans-serif;
+    background-color:#F7CAC9;
+}
+
+.card{
+    background-color: #f796a6;
+    width:60%;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+.name{
+    text-align:center;
+}
+
+.cs.student{
+    text-align:center;
+}
+
+.link {
+    display:block;
+    border: 1px solid white;
+    text-align:center;
+    padding-top:20px;
+    margin:50px;
+}
